@@ -1,2 +1,2 @@
 # Delta-demp
-this is demo repository  
+this is demo repository.
